@@ -15,7 +15,7 @@ Aquí están los pasos que necesitas seguir para configurar el entorno correctam
 Clonar el repositorio
 Primero, clona el repositorio en tu espacio de trabajo de ROS. Abre una terminal y ejecuta los siguientes comandos:
 cd Gabriela_Sánchez/src
-git clone https://github.com/luciovera001/2019100178.git
+git clone https://github.com/gabriela-py/Examen_unida.git
 cd ..
 catkin_make
 
